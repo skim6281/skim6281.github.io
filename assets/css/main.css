@@ -2600,13 +2600,14 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
+		/*background-image: url("../../images/banner.jpg");*/
+		background-image: url("../../images/cityscape.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 16em;
 		width: 100%;
 	}
 
@@ -2657,7 +2658,8 @@
 		/* Header */
 
 			#header {
-				width: 21em;
+				width: 15em;
+				/*width: 21em;*/
 			}
 
 				#header > header {
@@ -2671,7 +2673,8 @@
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 21em;
+				/*padding-right: 21em;*/
+				padding-right: 15em;
 			}
 
 		/* Main */
@@ -2785,7 +2788,8 @@
 		/* One */
 
 			#one:before {
-				height: 10em;
+				/*height: 10em;*/
+				height: 14em;
 			}
 
 		/* Off-Canvas Navigation */
@@ -2983,7 +2987,8 @@
 		/* One */
 
 			#one:before {
-				height: 7em;
+				/*height: 7em;*/
+				height: 9em;
 			}
 
 		/* Footer */
