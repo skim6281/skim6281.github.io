@@ -2607,7 +2607,8 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 16em;
+		/*height: 16em;*/
+		height: 19em;
 		width: 100%;
 	}
 
@@ -2789,7 +2790,7 @@
 
 			#one:before {
 				/*height: 10em;*/
-				height: 14em;
+				height: 15em;
 			}
 
 		/* Off-Canvas Navigation */
@@ -2988,7 +2989,7 @@
 
 			#one:before {
 				/*height: 7em;*/
-				height: 9em;
+				height: 11em;
 			}
 
 		/* Footer */
